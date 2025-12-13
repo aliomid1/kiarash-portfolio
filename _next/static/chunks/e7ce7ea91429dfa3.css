@@ -1,0 +1,1 @@
+@keyframes marquee{0%{transform:translate(0)}to{transform:translate(-100%)}}.animate-marquee{z-index:1;flex-direction:row;flex:none;align-items:center;min-width:auto;animation:35s linear infinite marquee;display:flex}
